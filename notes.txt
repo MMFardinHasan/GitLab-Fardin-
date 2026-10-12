@@ -1,0 +1,1 @@
+Git Staging area is a temporary space area where we kept the file before main saving.it is useful because we can final check it before submission.
